@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R.A.V. Central Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>R.A.V. CENTRAL ACADEMY</h1>
+            <p>Striving for Excellence in Education</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#admissions">Admissions</a></li>
+                <li><a href="#academics">Academics</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Welcome to R.A.V. Central Academy</h2>
+            <p>Empowering students with knowledge, skills, and values for a brighter future.</p>
+            <a href="#admissions" class="btn">Enroll Now</a>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>R.A.V. Central Academy is committed to providing quality education and fostering holistic development for every student. Our mission is to nurture talents and inspire excellence in a caring environment.</p>
+        </div>
+    </section>
+
+    <!-- Admissions Section -->
+    <section id="admissions" class="section">
+        <div class="container">
+            <h2>Admissions Open</h2>
+            <p>Join us for the academic year 2024-2025. Enroll now and become a part of a legacy of excellence.</p>
+            <a href="#" class="btn">Download Admission Form</a>
+        </div>
+    </section>
+
+    <!-- Academics Section -->
+    <section id="academics" class="section">
+        <div class="container">
+            <h2>Our Academics</h2>
+            <p>We offer a robust curriculum designed to meet the needs of every student, with a focus on academics, sports, and extracurriculars.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Address: 123, Main Road, City Name<br>Phone: +91 98765 43210<br>Email: info@ravacademy.com</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 R.A.V. Central Academy. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
